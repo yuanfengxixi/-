@@ -35,4 +35,4 @@
 
 本仓库原创文字、人物设定、分镜与创作指南依 [CC BY 4.0](LICENSE) 授权。复用或改编时，请署名 `yuanfengxixi`、链接本仓库并注明是否作过修改。西游神话中的公共领域人物及故事不由本仓库主张专有权利。
 
-建议署名格式：`《AI纪元：悟空重生》— yuanfengxixi，CC BY 4.0，https://github.com/yuanfengxixi/-`
+建议署名格式：`《AI纪元：悟空重生》— yuanfengxixi，CC BY 4.0，https://github.com/yuanfengxixi/ai-era-wukong-rebirth`
